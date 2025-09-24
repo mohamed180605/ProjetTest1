@@ -1,2 +1,3 @@
-hello
-c'est mohamed de Kherrata
+Hello !
+C'est mohamed de Kherrata.
+J'ai 20 ans et je veux être un bon informaticien.
